@@ -5,3 +5,4 @@
 4.[https://github.com/2303A52054/GenerativeAI_B39/blob/main/2054Assi04GA.ipynb]
 5.[https://github.com/2303A52054/GenerativeAI_B39/blob/main/2054(assi05).ipynb]
 6.[https://github.com/2303A52054/GenerativeAI_B39/blob/main/2054_ASSI06.ipynb]
+7.[https://github.com/2303A52054/GenerativeAI_B39/blob/main/Assi07(2054).ipynb]
